@@ -1,0 +1,5 @@
+# Parent repo: only README and submodule links belong here.
+*
+!README.md
+!.gitmodules
+!.gitignore
